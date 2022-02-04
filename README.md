@@ -1,24 +1,24 @@
 # emoji
 
-Just clone this project to local directory
+1 Just clone this project to local directory
 
-Copy interactive directory to your react native project directory
+2 Copy interactive directory to your react native project directory
 
-In your project root to add 3 packages 
+3 In your project root to add 3 packages 
 
-#yarn add react-native-game-engine
+    #yarn add react-native-game-engine
 
-#yarn add react-native-fast-image
+    #yarn add react-native-fast-image
 
-#yarn add matter-js
+    #yarn add matter-js
 
-Then open your Project js  file which will open this activity 
+4 Then open your Project js  file which will open this activity 
 
-import Interactive from './interactive/Interactive';
+5 import Interactive from './interactive/Interactive';
 
-Config it to your route section or other navigation 
+6 Config it to your route section or other navigation 
 
 <Scene key="interactoive" component={Interactive } />
 
-open the scene use the name interactive
+7 open the scene use the name interactive
 

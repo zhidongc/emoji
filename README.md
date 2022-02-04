@@ -18,7 +18,7 @@
 
 6 Config it to your route section or other navigation 
 
-<Scene key="interactoive" component={Interactive } />
+    <Scene key="interactoive" component={Interactive } />
 
 7 open the scene use the name interactive
 
